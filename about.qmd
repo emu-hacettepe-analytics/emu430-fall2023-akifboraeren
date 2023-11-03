@@ -5,26 +5,20 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
-
-# Work Experience
-
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2020 - ongoing.
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
-
-2.  Firm bbb, position yyy, year yyy
-
-# Projects
+1.  Odelo Automotive Signal Lights, Process Department, 2023
 
 # Competencies
 
 R, Quarto, Git, Python
 
+# CV Link
+
+[Akif Bora Eren CV](https://drive.google.com/file/d/1z4-VhjZ6m18wTLLawi5e5IyoWz5VScWP/view?usp=drive_link)
+
 # Hobbies
+
+Chess, Ski, Video Games, Calisthenics

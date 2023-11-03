@@ -12,4 +12,40 @@ My first assignment has two parts.
 
 ## (a)
 
+R is an open source language that was created by statisticians to teach statistics at university. It is heavily influenced by S language, therefore there are similarities between them.
+
+It is used by many big companies like Google, Uber, Facebook etc. It is used for working with data. statistical calculations and data visualizations are done with R language.
+
+Another open source coding language is Python. Python is also very popular to work with data. It is the most used programming language currently. These two powerful languages have similarities and differences. There are some examples of differences between them:
+
+1.  Their syntax is different but both are not as difficult to read as other languages.
+
+Example:
+
+```{r}
+for (i in 1:3) {
+  print(i)
+}
+```
+
+but in python we would say
+
+for i in range(1:3): print(i)
+
+and we would get 1,2 as the outcome.
+
 ## (b)
+
+```{r}
+library(dslabs)
+data(na_example)
+print(na_example)
+head(na_example)
+is.na(na_example)
+pizza <- na_example
+pizza[is.na(na_example)] <- 0 
+print(pizza)
+number_of_na <- sum(pizza == 0)
+print(number_of_na)
+
+```
